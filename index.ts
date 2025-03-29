@@ -310,3 +310,11 @@
 // . Omit: Creates a new type by omitting a set of properties from an existing type. This is useful when you want to create a new type that excludes certain properties from an existing type.
 // . Exclude: Creates a new type by excluding certain types from an existing type. This is useful when you want to create a new type that excludes certain types from an existing type.
 // . Extract: Creates a new type by extracting certain types from an existing type. This is useful when you want to create a new type that includes only certain types from an existing type.
+
+
+
+
+
+
+
+
